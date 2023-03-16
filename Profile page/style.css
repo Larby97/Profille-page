@@ -1,0 +1,61 @@
+/* Write some CSS below */
+body{
+    background-color: #467E94;
+    color: #20221C;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    font-weight: regular;
+}
+
+h1{
+    font-family: 'roboto' , sans-serif;
+    font-size: 32px;
+    font-weight: 900;
+}
+h2{
+    font-family: 'roboto' , sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+}
+.btn-blue{
+    text-decoration: none;
+    background-color: #872d2d;
+    padding: 15px 20px;
+    color: rgb(214, 214, 214);
+    font-weight: 600;
+    font-family: 'roboto' , sans-serif;
+    border-radius: 4px;
+    margin-top: 40px;
+}
+
+#introduction{
+    margin-bottom: 40px;
+    font-size: 18px;
+}
+#coco{
+    text-align: left;
+}
+
+.btn-blue:hover{
+    background-color: #467E94;
+}
+img{
+    height: 250px 250px;
+    border-radius: 70%;
+    width: 200px;
+}
+
+.card-white{
+    border-radius: 4px;
+    width: 600px;
+    padding: 40px;
+    margin: 20px 0px;
+    background-color: #D6D0C9;
+    text-align: justify;
+    text-align: center;
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.2);
+}
+.container{
+    margin: 10px auto;
+    width: 680px;
+}
